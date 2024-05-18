@@ -1,0 +1,4 @@
+Modifying this text file. 
+Adding some text. 
+Save it.
+Stage it.
